@@ -25,7 +25,7 @@ The description about this work can be found in the file Report-Notebook.ipynb o
 ## How to reproduce this work
 In order to reproduce this work, you must install jupyter notebook using conda and download the file Codes.ipynb. Some packages may be required to be installed in the conda venv. If you already have installed anaconda, then simply run the following commands on the terminal in the working directory:
 ```shell
-conda create -n <envname> --file requirtement.txt
+conda create -n <envname> --file requirement.txt
 conda activate <envname>
 jupyter lab
 ```
